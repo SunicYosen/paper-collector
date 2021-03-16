@@ -1,3 +1,3 @@
-# Paper Collection
+# Paper Collector
 
-Paper Collection with Python
+Paper Collector with Python
